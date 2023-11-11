@@ -1,0 +1,65 @@
+[
+  {
+    "inspectionId": 1,
+    "date": "2023-11-10T12:00:00",
+    "school": {
+      "schoolId": 121,
+      "name": "Mock School",
+      "location": "Mock City"
+    },
+    "inspector": {
+      "inspectorId": 21,
+      "name": "Mock Inspector 21"
+    },
+    "inspectionDetails": [
+      {
+        "category": "Facilities",
+        "comments": "All facilities are in good condition.",
+        "rating": 5
+      },
+      {
+        "category": "Staff",
+        "comments": "Friendly and helpful staff.",
+        "rating": 4
+      },
+      {
+        "category": "Curriculum",
+        "comments": "Comprehensive curriculum coverage.",
+        "rating": 5
+      }
+
+    ]
+  },
+
+  {
+    "inspectionId": 2,
+    "date": "2023-11-10T12:00:00",
+    "school": {
+      "schoolId": 122,
+      "name": "Mock School",
+      "location": "Mock City"
+    },
+    "inspector": {
+      "inspectorId": 22 ,
+      "name": "Mock Inspector 22"
+    },
+    "inspectionDetails": [
+      {
+        "category": "Facilities",
+        "comments": "All facilities are in good condition.",
+        "rating": 5
+      },
+      {
+        "category": "Staff",
+        "comments": "Friendly and helpful staff.",
+        "rating": 4
+      },
+      {
+        "category": "Curriculum",
+        "comments": "Comprehensive curriculum coverage.",
+        "rating": 5
+      }
+
+    ]
+  }
+]
